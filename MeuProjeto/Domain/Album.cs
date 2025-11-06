@@ -1,7 +1,7 @@
 using System;
 using MeuProjeto.Domain;
   
-
+// teste para o gitdesktop
 namespace MeuProjeto.Domain
 {
     public class Album 
