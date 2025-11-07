@@ -7,7 +7,7 @@ namespace MeuProjeto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Olá, Mundo!");
+            Console.WriteLine("Causei um merge Conflict!");
             Console.WriteLine("O ano é 2025 e estou cursando Git e GitHub!");
             Console.WriteLine("Aqui vamos testar o Merge Conflict.");
         }
