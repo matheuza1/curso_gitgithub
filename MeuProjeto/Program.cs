@@ -14,7 +14,8 @@ namespace MeuProjeto
             Console.WriteLine("Como vou fazer para isso dar certo ?");
             Console.WriteLine("O que tem que ser feito para funcionar ?");
 
-            Console.WriteLine("Merge com a branch Master");
+            Console.WriteLine("Testando cherry-pick.");
+            Console.WriteLine("Agora o cherry-pick vai dar certo.");
         }
     }
 }
