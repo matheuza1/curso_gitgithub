@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\ProjetoCursoGit\\MeuProjeto\\MeuProjeto.csproj": {}
+    "C:\\Estudos\\curso_gitgithub\\MeuProjeto\\MeuProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\ProjetoCursoGit\\MeuProjeto\\MeuProjeto.csproj": {
+    "C:\\Estudos\\curso_gitgithub\\MeuProjeto\\MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoCursoGit\\MeuProjeto\\MeuProjeto.csproj",
+        "projectUniqueName": "C:\\Estudos\\curso_gitgithub\\MeuProjeto\\MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "C:\\Estudos\\ProjetoCursoGit\\MeuProjeto\\MeuProjeto.csproj",
+        "projectPath": "C:\\Estudos\\curso_gitgithub\\MeuProjeto\\MeuProjeto.csproj",
         "packagesPath": "C:\\Users\\ponto\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoCursoGit\\MeuProjeto\\obj\\",
+        "outputPath": "C:\\Estudos\\curso_gitgithub\\MeuProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ponto\\AppData\\Roaming\\NuGet\\NuGet.Config"
